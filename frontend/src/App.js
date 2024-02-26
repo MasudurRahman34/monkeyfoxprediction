@@ -1,11 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-import Form from './component/mokeyfox';
+import From from "./components/form";
+
 
 function App() {
   return (
     <div className="App">
-     <Form/>
+      <From/>
     </div>
   );
 }
